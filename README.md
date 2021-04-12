@@ -9,3 +9,4 @@
 |chair|desk|
 |not|a|
 |legit|table|
+|[huh what if I put in a link](./page.md)|1|
